@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/tehno/static/css/main.1640f6bf.css",
+    "main.js": "/tehno/static/js/main.bba986b8.js",
+    "static/js/787.317fa550.chunk.js": "/tehno/static/js/787.317fa550.chunk.js",
+    "static/media/logo.svg": "/tehno/static/media/logo.ce4914400ccac6e0d86748f3d6e0933a.svg",
+    "static/media/link.cur": "/tehno/static/media/link.affcb1aec74bbd1ecefe.cur",
+    "static/media/pointer.cur": "/tehno/static/media/pointer.592d7723cd325f91b788.cur",
+    "index.html": "/tehno/index.html",
+    "main.1640f6bf.css.map": "/tehno/static/css/main.1640f6bf.css.map",
+    "main.bba986b8.js.map": "/tehno/static/js/main.bba986b8.js.map",
+    "787.317fa550.chunk.js.map": "/tehno/static/js/787.317fa550.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1640f6bf.css",
+    "static/js/main.bba986b8.js"
+  ]
+}
